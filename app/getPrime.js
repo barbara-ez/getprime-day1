@@ -1,3 +1,4 @@
+//Asymptotic notation O(n)
 app=
 {  
         isPrime:function(numToCheck) 
